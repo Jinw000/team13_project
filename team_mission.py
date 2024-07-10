@@ -23,7 +23,7 @@ members = []
 posts = []
 members_id = []
 
-# 터미널에서 유저를 추가하는 기능
+# 터미널에서 유저를 추가하는 기능 
 
 
 def plus_user():
